@@ -39,6 +39,7 @@ gem 'jbuilder', '~> 2.5'
  gem 'aasm'
  gem 'carrierwave-qiniu'
  gem 'qiniu-rs'
+ gem 'figaro'
 
 
 group :development, :test do
